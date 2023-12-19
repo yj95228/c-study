@@ -127,9 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="resource.h" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="Main01.c" />
     <ClCompile Include="Main02.c" />
     <ClCompile Include="Main03.c" />
@@ -140,7 +137,7 @@
     <ClCompile Include="Main08.c" />
     <ClCompile Include="Main09_switch.c" />
     <ClCompile Include="Main10_while.c" />
-    <ClCompile Include="Main11_for.cpp" />
+    <ClCompile Include="Main11_for.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

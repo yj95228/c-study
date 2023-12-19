@@ -1,0 +1,4 @@
+﻿  Main01.c
+C:\scsa\c\workspace\CLab\workshop1\Main01.c(43,49): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\scsa\c\workspace\CLab\workshop1\Main01.c(77,4): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  workshop1.vcxproj -> C:\scsa\c\workspace\CLab\x64\Debug\workshop1.exe

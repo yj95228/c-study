@@ -15,11 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="resource.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="Main01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -50,7 +45,7 @@
     <ClCompile Include="Main10_while.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Main11_for.cpp">
+    <ClCompile Include="Main11_for.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
