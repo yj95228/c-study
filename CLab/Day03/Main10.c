@@ -9,7 +9,7 @@ int functionPoint(int(*fp)(int, int), int a, int b) {
 	return fp(a, b);
 }
 
-int main() {
+int main10() {
 	printf("%d\n", plus);
 	printf("%d\n", minus);
 	printf("%d\n", cross);
