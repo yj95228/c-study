@@ -45,7 +45,7 @@
     <ClCompile Include="Main10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\Main09.c">
+    <ClCompile Include="Main09.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

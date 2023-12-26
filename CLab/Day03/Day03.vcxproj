@@ -127,7 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\Main09.c" />
     <ClCompile Include="Main01.c" />
     <ClCompile Include="Main02.c" />
     <ClCompile Include="Main03.c" />
@@ -136,6 +135,7 @@
     <ClCompile Include="Main06.c" />
     <ClCompile Include="Main07.c" />
     <ClCompile Include="Main07_1.c" />
+    <ClCompile Include="Main09.c" />
     <ClCompile Include="Main10.c" />
     <ClCompile Include="Main08.c" />
   </ItemGroup>

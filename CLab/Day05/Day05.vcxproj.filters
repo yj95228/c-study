@@ -15,64 +15,64 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main01.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Main03.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Main04.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Main05.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Main06.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Main07.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Main08.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Main09.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Main10.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Main11.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Main12.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Main13.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Main14.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Main15.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Main16.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\Main02.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\Users\student\Downloads\day05\my.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Users\student\Downloads\day05\person1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Users\student\Downloads\day05\student1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="person.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="student.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="my.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main09.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main15.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day05\Main16.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

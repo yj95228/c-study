@@ -18,6 +18,19 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day04\Main01.c" />
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day04\Main02.c" />
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day04\Main03.c" />
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day04\Main04.c" />
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day04\Main04_1.c" />
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day04\Main04_2.c" />
+    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\day04\Main05.c" />
+    <ClCompile Include="가위바위보.c" />
+    <ClCompile Include="낱말맞추기.c" />
+    <ClCompile Include="로또.c" />
+    <ClCompile Include="오목.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,19 +139,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\Main01.c" />
-    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\Main02.c" />
-    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\Main03.c" />
-    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\Main04.c" />
-    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\Main04_1.c" />
-    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\Main04_2.c" />
-    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\Main05.c" />
-    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\낱말맟추기.c" />
-    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\로또.c" />
-    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\바위바위보.c" />
-    <ClCompile Include="..\..\..\..\..\Users\student\Downloads\오목.c" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
