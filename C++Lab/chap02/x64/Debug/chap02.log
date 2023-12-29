@@ -1,2 +1,24 @@
-﻿  7.newObject.cpp
+﻿  1.bool.cpp
+  2.ref.cpp
+C:\scsa\c\workspace\C++Lab\chap02\2.ref.cpp(5,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\scsa\c\workspace\C++Lab\chap02\2.ref.cpp(5,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\scsa\c\workspace\C++Lab\chap02\2.ref.cpp(8,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\scsa\c\workspace\C++Lab\chap02\2.ref.cpp(8,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\scsa\c\workspace\C++Lab\chap02\2.ref.cpp(11,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\scsa\c\workspace\C++Lab\chap02\2.ref.cpp(11,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\scsa\c\workspace\C++Lab\chap02\2.ref.cpp(14,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\scsa\c\workspace\C++Lab\chap02\2.ref.cpp(14,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+  3.ref2.cpp
+  4.ref&Point.cpp
+  5.return.cpp
+C:\scsa\c\workspace\C++Lab\chap02\5.return.cpp(11,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\scsa\c\workspace\C++Lab\chap02\5.return.cpp(11,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\scsa\c\workspace\C++Lab\chap02\5.return.cpp(16,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\scsa\c\workspace\C++Lab\chap02\5.return.cpp(16,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+  6.new&Delete.cpp
+C:\scsa\c\workspace\C++Lab\chap02\6.new&Delete.cpp(13,6): warning C4101: 'arr1' :참조되지 않은 지역 변수입니다.
+C:\scsa\c\workspace\C++Lab\chap02\6.new&Delete.cpp(6,6): warning C4101: 'arr' :참조되지 않은 지역 변수입니다.
+  7.newObject.cpp
+  코드를 생성하고 있습니다...
+C:\scsa\c\workspace\C++Lab\chap02\5.return.cpp(12): warning C4172: 지역 변수 또는 임시: res의 주소를 반환하고 있습니다.
   chap02.vcxproj -> C:\scsa\c\workspace\C++Lab\x64\Debug\chap02.exe

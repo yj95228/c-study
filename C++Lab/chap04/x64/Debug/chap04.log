@@ -1,0 +1,17 @@
+﻿  1.encapsulation.cpp
+  2.const.cpp
+  3.constructor.cpp
+  4.constructor2.cpp
+  5.privateConstructor.cpp
+  6.Destructor.cpp
+C:\scsa\c\workspace\C++Lab\chap04\Sample2.h(18,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '../chap04/6.Destructor.cpp'을(를) 컴파일하는 중)
+  
+  7.this.cpp
+  8.pointerArr.cpp
+C:\scsa\c\workspace\C++Lab\chap04\Sample2.h(18,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '../chap04/8.pointerArr.cpp'을(를) 컴파일하는 중)
+  
+  wrapper.h
+  코드를 생성하고 있습니다...
+  chap04.vcxproj -> C:\scsa\c\workspace\C++Lab\x64\Debug\chap04.exe

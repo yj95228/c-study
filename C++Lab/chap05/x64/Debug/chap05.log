@@ -1,0 +1,12 @@
+﻿  1.copyConstructor.cpp
+  2.DeepCopy.cpp
+C:\scsa\c\workspace\C++Lab\chap05\1.copyConstructor.cpp(15,12): error C2440: '초기화 중': 'Sample'에서 'Sample'(으)로 변환할 수 없습니다.
+  C:\scsa\c\workspace\C++Lab\chap05\1.copyConstructor.cpp(15,12):
+  class 'Sample'의 생성자가 'explicit'으로 선언되었습니다.
+  
+  copyConstructor2.cpp
+C:\scsa\c\workspace\C++Lab\chap05\copyConstructor2.cpp(7,12): error C2440: '초기화 중': 'Sample'에서 'Sample'(으)로 변환할 수 없습니다.
+  C:\scsa\c\workspace\C++Lab\chap05\copyConstructor2.cpp(7,12):
+  class 'Sample'의 생성자가 'explicit'으로 선언되었습니다.
+  
+  코드를 생성하고 있습니다...
