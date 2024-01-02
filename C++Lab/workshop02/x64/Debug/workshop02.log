@@ -1,0 +1,22 @@
+﻿  BookManager.cpp
+C:\scsa\c\workspace\C++Lab\workshop02\BookManager.cpp(48,8): error C2372: 'publisher': 재정의. 간접 참조 형식이 다릅니다.
+  C:\scsa\c\workspace\C++Lab\workshop02\BookManager.cpp(36,7):
+  'publisher' 선언을 참조하십시오.
+  
+C:\scsa\c\workspace\C++Lab\workshop02\BookManager.cpp(50,6): error C2088: '>>': class에 맞지 않습니다.
+C:\scsa\c\workspace\C++Lab\workshop02\BookManager.cpp(51,2): error C2065: 'b': 선언되지 않은 식별자입니다.
+C:\scsa\c\workspace\C++Lab\workshop02\BookManager.cpp(53,8): error C2372: 'author': 재정의. 간접 참조 형식이 다릅니다.
+  C:\scsa\c\workspace\C++Lab\workshop02\BookManager.cpp(35,7):
+  'author' 선언을 참조하십시오.
+  
+C:\scsa\c\workspace\C++Lab\workshop02\BookManager.cpp(55,6): error C2088: '>>': class에 맞지 않습니다.
+C:\scsa\c\workspace\C++Lab\workshop02\BookManager.cpp(56,2): error C2065: 'b': 선언되지 않은 식별자입니다.
+C:\scsa\c\workspace\C++Lab\workshop02\BookManager.cpp(58,6): error C2086: 'int price': 재정의
+  C:\scsa\c\workspace\C++Lab\workshop02\BookManager.cpp(37,6):
+  'price' 선언을 참조하십시오.
+  
+C:\scsa\c\workspace\C++Lab\workshop02\BookManager.cpp(61,2): error C2065: 'b': 선언되지 않은 식별자입니다.
+C:\scsa\c\workspace\C++Lab\workshop02\BookManager.cpp(62,17): error C2065: 'b': 선언되지 않은 식별자입니다.
+  Magazine.cpp
+  main.cpp
+  코드를 생성하고 있습니다...

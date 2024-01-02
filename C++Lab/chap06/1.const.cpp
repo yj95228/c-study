@@ -2,7 +2,7 @@
 using namespace std;
 
 
-class simple {
+class Simple {
 public:
     int a = 10;
     void change() const {
@@ -16,7 +16,7 @@ public:
     }
 };
 
-void func1(const simple s) {
+void func1(const Simple s) {
     s.change();
 }
 int main01() {
@@ -24,7 +24,7 @@ int main01() {
     // a = 20; 변수 : 값의 상수화
 
     // const simple s; // const로 선언된 객체는 const 함수만 호출할 수 있다
-    simple s;
+    Simple s;
     s.change();
     func1(s);
     return 0;

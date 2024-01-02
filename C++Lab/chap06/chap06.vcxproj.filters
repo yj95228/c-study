@@ -24,6 +24,12 @@
     <ClCompile Include="3.FriendFuntion.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="4.cstatic.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5.mutable.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Boy&amp;Girl.h">

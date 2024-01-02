@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main() {
+int main03() {
     Boy2 b(178);
     Girl2 g;
     g.showBoyHeight2(b);
