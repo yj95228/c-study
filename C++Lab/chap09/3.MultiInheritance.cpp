@@ -16,7 +16,7 @@ class Drived : public BaseOne, public BaseTwo {
 public:
 	Drived() { cout << "Drived »ý¼ºÀÚ" << endl; }
 };
-int main() {
+int main03() {
 	Drived* d = new Drived;
 	d->baseOneShow();
 	d->baseTwoShow();

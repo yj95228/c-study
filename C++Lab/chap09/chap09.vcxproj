@@ -130,6 +130,10 @@
     <ClCompile Include="1.RealObjUnder1.cpp" />
     <ClCompile Include="2.ReadObjUnder2.cpp" />
     <ClCompile Include="3.MultiInheritance.cpp" />
+    <ClCompile Include="4.PureVirtualFunction.cpp" />
+    <ClCompile Include="5.ObjectProject.cpp" />
+    <ClCompile Include="6.MultiInherProblem1.cpp" />
+    <ClCompile Include="7.MultiInherProblem2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
